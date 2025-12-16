@@ -2,6 +2,7 @@
 
 
 📊 Projeto Python – Análise e Automação de Notas de Alunos
+
 📌 Descrição do Projeto
 
 Este projeto tem como objetivo automatizar a análise de notas de alunos a partir de planilhas, calculando médias, identificando desempenho acadêmico e gerando relatórios visuais e arquivos finais para apoio à tomada de decisão educacional.
